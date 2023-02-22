@@ -4,7 +4,7 @@
 @endsection
 
 @section('content')
-<div class="company-header">Задание 1: лесенка</div>
+<div class="company-header">Задача 1: лесенка</div>
 <div class="company-text">
 	<p>Нужно вывести лесенкой числа от 1 до 100.</p>
 	<p>1</p>

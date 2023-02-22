@@ -4,7 +4,7 @@
 @endsection
 
 @section('content')
-<div class="company-header">Задание 2: массивы</div>
+<div class="company-header">Задача 2: массивы</div>
 <div class="company-text">
 	<p>Нужно заполнить массив 5 на 7 случайными уникальными числами от 1 до 1000.</p>
 	<p>Вывести получившийся массив и суммы по строкам и по столбцам.</p>
